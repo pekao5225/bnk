@@ -1,0 +1,247 @@
+[
+  {
+    "id": "ukrgasbank",
+    "name": "Укргазбанк",
+    "url": "https://www.ukrgasbank.com/bank_shares/",
+    "kind": "promo",
+    "path_hints": ["bank_shares"]
+  },
+  {
+    "id": "vstbank",
+    "name": "VST Bank",
+    "url": "https://vstbank.ua/about/news#/",
+    "kind": "news",
+    "path_hints": ["about/news"]
+  },
+  {
+    "id": "universalbank",
+    "name": "Universal Bank",
+    "url": "https://www.universalbank.com.ua/offers",
+    "kind": "promo",
+    "root_cards": true
+  },
+  {
+    "id": "ukrsibbank",
+    "name": "UKRSIBBANK",
+    "url": "https://ukrsibbank.com/akczii/",
+    "kind": "promo",
+    "path_hints": ["actions", "akczii"]
+  },
+  {
+    "id": "bisbank",
+    "name": "Банк інвестицій та заощаджень",
+    "url": "https://www.bisbank.com.ua/news/",
+    "kind": "news",
+    "path_hints": ["news"]
+  },
+  {
+    "id": "oschadbank",
+    "name": "Ощадбанк",
+    "url": "https://www.oschadbank.ua/promotions",
+    "kind": "promo",
+    "path_hints": ["promotions"]
+  },
+  {
+    "id": "sensebank",
+    "name": "Sense Bank",
+    "url": "https://sensebank.ua/news",
+    "kind": "news",
+    "path_hints": ["news"]
+  },
+  {
+    "id": "clhs",
+    "name": "Банк КД",
+    "url": "https://clhs.com.ua/ua/tarifi-ta-dokumenti",
+    "kind": "promo",
+    "root_cards": true
+  },
+  {
+    "id": "kredobank",
+    "name": "Кредобанк",
+    "url": "https://kredobank.com.ua/private/kartky/akciyi",
+    "kind": "promo",
+    "path_hints": ["akciyi", "akcii", "private/kartky"]
+  },
+  {
+    "id": "unexbank",
+    "name": "Unex Bank",
+    "url": "https://unexbank.ua/privatnim-osobam/akciyi",
+    "kind": "promo",
+    "path_hints": ["privatnim-osobam/akciyi"]
+  },
+  {
+    "id": "izibank",
+    "name": "izibank",
+    "url": "https://promo.izibank.com.ua/",
+    "kind": "promo",
+    "root_cards": true,
+    "allow_external_cards": true
+  },
+  {
+    "id": "poltavabank",
+    "name": "Полтава-банк",
+    "url": "https://poltavabank.com/news",
+    "kind": "news",
+    "path_hints": ["news"]
+  },
+  {
+    "id": "ideabank",
+    "name": "Idea Bank",
+    "url": "https://ideabank.ua/uk/news/category/e9a4c4d0-d7a6-49db-8e61-1de395ac3aea",
+    "kind": "promo",
+    "path_hints": ["news", "category"]
+  },
+  {
+    "id": "mtb",
+    "name": "МТБ Банк",
+    "url": "https://mtb.ua/news",
+    "kind": "news",
+    "path_hints": ["news"]
+  },
+  {
+    "id": "radabank",
+    "name": "Радабанк",
+    "url": "https://www.radabank.com.ua/novini",
+    "kind": "news",
+    "path_hints": ["novini", "news"]
+  },
+  {
+    "id": "abank_offers",
+    "name": "А-Банк",
+    "url": "https://a-bank.com.ua/special_offers",
+    "kind": "promo",
+    "path_hints": ["special_offers", "news"],
+    "root_cards": true
+  },
+  {
+    "id": "abank_news",
+    "name": "А-Банк",
+    "url": "https://a-bank.com.ua/news",
+    "kind": "news",
+    "path_hints": ["news"]
+  },
+  {
+    "id": "raiffeisen",
+    "name": "Райффайзен Банк",
+    "url": "https://raiffeisen.ua/stores",
+    "kind": "promo",
+    "path_hints": ["stores"],
+    "root_cards": true
+  },
+  {
+    "id": "ukrcapital",
+    "name": "Український капітал",
+    "url": "https://ukrcapital.com.ua/uk/novyny.html",
+    "kind": "news",
+    "path_hints": ["novyny", "news"]
+  },
+  {
+    "id": "creditdnepr",
+    "name": "Банк Кредит Дніпро",
+    "url": "https://creditdnepr.com.ua/akcii",
+    "kind": "promo",
+    "path_hints": ["akcii", "akci"]
+  },
+  {
+    "id": "novapay",
+    "name": "NovaPay",
+    "url": "https://novapay.ua/category/news/",
+    "kind": "news",
+    "path_hints": ["news"]
+  },
+  {
+    "id": "globusbank",
+    "name": "Глобус Банк",
+    "url": "https://globusbank.com.ua/ua/aktsiyi.html",
+    "kind": "promo",
+    "path_hints": ["aktsiyi", "akcii", "actions"],
+    "root_cards": true,
+    "allow_external_cards": true
+  },
+  {
+    "id": "accordbank",
+    "name": "Акордбанк",
+    "url": "https://accordbank.com.ua/ua/about/news/",
+    "kind": "news",
+    "path_hints": ["about/news"]
+  },
+  {
+    "id": "tascombank",
+    "name": "Таскомбанк",
+    "url": "https://tascombank.ua/news",
+    "kind": "news",
+    "path_hints": ["news"]
+  },
+  {
+    "id": "otpbank",
+    "name": "OTP Bank",
+    "url": "https://www.otpbank.com.ua/action/",
+    "kind": "promo",
+    "path_hints": ["action"]
+  },
+  {
+    "id": "credit_agricole",
+    "name": "Credit Agricole",
+    "url": "https://credit-agricole.ua/o-banke/pres-centr/akciyi",
+    "kind": "promo",
+    "path_hints": ["akciyi", "novini", "pres-centr"]
+  },
+  {
+    "id": "procreditbank",
+    "name": "ПроКредит Банк",
+    "url": "https://procreditbank.com.ua/aktsiini-propozytsii",
+    "kind": "promo",
+    "path_hints": ["aktsiini-propozytsii"],
+    "root_cards": true
+  },
+  {
+    "id": "privatbank",
+    "name": "ПриватБанк",
+    "url": "https://newpromos.privatbank.ua/",
+    "kind": "promo",
+    "root_cards": true,
+    "allow_external_cards": true
+  },
+  {
+    "id": "pumb",
+    "name": "ПУМБ",
+    "url": "https://about.pumb.ua/presscenter/promo",
+    "kind": "promo",
+    "path_hints": ["presscenter/promo", "promo"]
+  },
+  {
+    "id": "industrialbank",
+    "name": "Індустріалбанк",
+    "url": "https://industrialbank.ua/ua/news",
+    "kind": "news",
+    "path_hints": ["news"]
+  },
+  {
+    "id": "cib",
+    "name": "ComInBank",
+    "url": "https://cib.com.ua/uk/about/news",
+    "kind": "news",
+    "path_hints": ["about/news", "news"]
+  },
+  {
+    "id": "crystalbank",
+    "name": "Кристалбанк",
+    "url": "https://crystalbank.com.ua/ua/card_actions/",
+    "kind": "promo",
+    "path_hints": ["card_actions"]
+  },
+  {
+    "id": "oxibank",
+    "name": "Оксі Банк",
+    "url": "https://oxibank.ua/blog",
+    "kind": "news",
+    "path_hints": ["blog"]
+  },
+  {
+    "id": "piraeusbank",
+    "name": "Піреус Банк",
+    "url": "https://piraeusbank.ua/ua/home/press-center",
+    "kind": "news",
+    "path_hints": ["press-center", "news", "novini"]
+  }
+]
